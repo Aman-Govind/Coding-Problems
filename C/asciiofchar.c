@@ -1,3 +1,5 @@
+// Given a printable ASCII character, find its ASCII value
+// and print the corresponding next and previous ASCII characters.
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
